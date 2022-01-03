@@ -1,0 +1,74 @@
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    padding: 15px;
+    margin: 4px;
+}
+.form{
+    text-align: center;
+    align:center;
+    padding:10px;
+    margin: 5px;
+}
+body{
+    background-color: darkslategrey;
+}
+.video{
+    text-align: center;
+}
+#bal{
+    border: 2px solid red;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.img{
+    text-align: center;
+}
+#rendom{
+    text-align: justify;
+    background-color: sienna;
+    padding: 20px;
+    margin-top: 7px;
+    border: tomato;
+    border-radius: 20px;
+    font-size:30px ;
+
+
+}
+header{
+    background-color: violet;
+    
+
+}
+footer{
+    background-color: brown;
+    text-align: center;
+    text-decoration: burlywood;
+    padding-bottom: 0%;
+    
+}
+
+}
+body{
+    background-color: rgb(25, 184, 184);
+}
+table{
+    border: 2px solid black;
+    text-align: center;
+}
+.name-color{
+    color: darkgoldenrod;
+}
+.blogs{
+    text-align: justify;
+    background-color: rgb(8, 116, 62);
+    font-size: 19px;
+    border: 10px solid rebeccapurple;
+    border-radius: 16px;
+    margin-top: 5px;
+    margin-left: 19px;
+    margin-bottom: 20px;
+    margin-right: 19px;
+    padding: 20px;
+}
